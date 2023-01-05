@@ -2,7 +2,9 @@
 - 👀 I’m interested in programming languages
 - 🌱 I’m currently learning web programming
 - 💞️ I’m looking to collaborate on google
-- 📫 How to reach me ...
+- 📫 How to reach me : 
+      Email  : Elazzouzi.hamza20@gmail.com
+      
 
 <!---
 hamza2814/hamza2814 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
