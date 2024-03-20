@@ -65,20 +65,26 @@
   }
 ```
       
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently studying **Software Engineering Program**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently studying **Web Devloppemment**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Philosophy, Movies or Gaming**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Linkedin: **[Ousama Oujaber](https://www.linkedin.com/in/OusamaTheCoder)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: **Debugging is like being the 🔍 detective in a crime drama 🔍 where you are also the 👻 murderer 😅**.<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Movies or Gaming**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Linkedin: **[Hamza El Azzouzi](https://www.linkedin.com/in/el-azzouzi-hamza/)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: **Debugging: It's like being the detective 🕵️‍♂️ solving a case while also being the suspect 🔍.
+
+
+
+
+
+**.<br>
       
 <div align="center" >
-    <a  href="https://github.com/OusamaTheCoder">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OusamaTheCoder&theme=github_dark" width="32.5%">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OusamaTheCoder&theme=github_dark" width="32.5%">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OusamaTheCoder&theme=github_dark" width="32.5%">
+    <a  href="https://github.com/Hamza-El-Azzouzi">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hamza-El-Azzouzi&theme=github_dark" width="32.5%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamza-El-Azzouzi&theme=github_dark" width="32.5%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hamza-El-Azzouzi&theme=github_dark" width="32.5%">
     </a>
     <strong>More stats</strong><br>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OusamaTheCoder&theme=github_dark" 
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamza-El-Azzouzi&theme=github_dark" 
     <hr></hr>
 </div>
 
