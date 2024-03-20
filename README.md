@@ -13,17 +13,17 @@
   
   <h3 align="center">Find me here:</h3>
   <p align="center">
-    <a href="mailto:elazzouzi.hamza20@gmail.com" target="blank">![image](https://github.com/Hamza-El-Azzouzi/hamza2814/assets/85744122/b69a748b-0e23-440d-800a-e3e6c667ddec)
+    <a href="mailto:elazzouzi.hamza20@gmail.com" target="blank"> <img align="center" src="https://github.com/HamzaElAzzouzi/hamza2814/assets/85744122/b69a748b0e23440d800ae3e6c667ddec"alt="HamzaElAzzouzi" height="30" width="40" />
 </a>
     <a href="https://www.linkedin.com/in/el-azzouzi-hamza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hamza El Azzouzi" height="30" width="40" /></a>
   </p>
   
   <p><strong>Education:</strong></p>
   
- //![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-  //![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-  //![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-  //![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
+  ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+  ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+  ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
   <br>
   
   
