@@ -49,7 +49,7 @@
     const myTools = {  
       "ProgramingLanguages" : { "PhP", "Python", "Javascript", "Golang" },
       "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-      "Database" : { "Mysql", "MongoDB" },
+      "Database" : { "Mysql","PostgreSQL", "MongoDB" },
       "Editors" : { "Vscode" },
       "Platforms" : { "GNU/Linux", "Windows" },
       "OtherTools" : { "Git" }
