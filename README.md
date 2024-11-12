@@ -77,4 +77,4 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamza-El-Azzouzi&theme=github_dark" 
     <hr></hr>
 </div>
-[![roadmap.sh](https://roadmap.sh/card/tall/66a76408ee6a29a2edecec7f?variant=dark&roadmaps=devops%2Cgolang%2Cdocker%2Cbackend)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66a76408ee6a29a2edecec7f?variant=dark&roadmaps=devops%2Cgolang%2Cdocker%2Cbackend" alt="roadmap.sh"/></a>
