@@ -1,79 +1,126 @@
-<div align="center" width="50">
-  
-  ![MasterHead](https://i.imgur.com/xcCS9ja.gif)
-  
-  <h1 align="center">Hi 👋, I'm Hamza El Azzouzi</h1>
-  <h3 align="center">A passionate Web Devloppement from Morocco</h3>
-      
-  <p><strong>Freelancing & Assisting my self at this life.</strong></p>
+<div align="center">
 
+# 👋 Hey there! I'm Hamza El Azzouzi
 
+### 🚀 Web Developer | 🇲🇦 Morocco | 💡 Building Digital Experiences
 
-  <h3 align="center">Find me here:</h3>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/el-azzouzi-hamza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hamza El Azzouzi" height="30" width="40" /></a>
-  </p>
-  
-  <p><strong>Education:</strong></p>
-  
-  ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-  ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-  ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
-  <br>
-  
-  
+![MasterHead](https://i.imgur.com/xcCS9ja.gif)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-azzouzi-hamza/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
 </div>
-      
-<hr></hr>
-  
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-  
-  
-```golang
-  // tools_I_use organized
-  
-  class About extends Me { 
-    const myTools = {  
-      "ProgramingLanguages" : { "PhP", "Python", "Javascript", "Golang" },
-      "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-      "Database" : { "Mysql","PostgreSQL", "MongoDB" },
-      "Editors" : { "Vscode" },
-      "Platforms" : { "GNU/Linux", "Windows" },
-      "OtherTools" : { "Git" }
-    };
-  }
+
+---
+
+## 🎯 About Me
+
+```typescript
+const hamza = {
+    location: "Taza, Morocco 🇲🇦",
+    role: "Full Stack Web Developer",
+    currentFocus: "Building scalable web applications",
+    interests: ["Web Dev", "Linux", "Movies 🎬", "Gaming 🎮"],
+    funFact: "Debugging: Being the detective 🕵️ and the suspect 🔍 simultaneously",
+    lifePhilosophy: "Freelancing & navigating this life one commit at a time"
+};
 ```
-      
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently studying **Web Devloppemment**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Movies or Gaming**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Linkedin: **[Hamza El Azzouzi](https://www.linkedin.com/in/el-azzouzi-hamza/)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact:**Debugging:It's like being the detective 🕵️‍♂️ solving a case while also being the suspect 🔍.
 
-<br>
+---
 
+## 💻 Tech Stack
 
-      
-<div align="center" >
-    <a  href="https://github.com/Hamza-El-Azzouzi">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hamza-El-Azzouzi&theme=github_dark" width="32.5%">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamza-El-Azzouzi&theme=github_dark" width="32.5%">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hamza-El-Azzouzi&theme=github_dark" width="32.5%">
-    </a>
-    <strong>More stats</strong><br>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamza-El-Azzouzi&theme=github_dark" 
-    <hr></hr>
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza-El-Azzouzi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-El-Azzouzi&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-El-Azzouzi&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamza-El-Azzouzi&theme=tokyonight" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Building full-stack web applications with modern frameworks
+- 🌱 Deep diving into **cloud technologies** and **DevOps practices**
+- 🐧 Exploring the depths of **GNU/Linux** systems
+- 💬 Always happy to discuss **Movies, Gaming, or Tech**
+- 🎨 Crafting pixel-perfect user interfaces
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-El-Azzouzi&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always interested in collaborating on interesting projects or just having a chat about technology, movies, or gaming!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-azzouzi-hamza/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamza-El-Azzouzi)
+
+### 💼 Open to Freelance Opportunities
+
+<img src="https://komarev.com/ghpvc/?username=Hamza-El-Azzouzi&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
