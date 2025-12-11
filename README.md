@@ -35,6 +35,7 @@ const hamza = {
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=java&logoColor=orange)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -63,13 +64,13 @@ const hamza = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza-El-Azzouzi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-El-Azzouzi&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+</div> -->
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-El-Azzouzi&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Hamza-El-Azzouzi&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
